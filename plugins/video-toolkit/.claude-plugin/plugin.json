@@ -1,0 +1,10 @@
+{
+  "name": "video-toolkit",
+  "version": "0.29.1",
+  "description": "claude-code-video-toolkit as a plugin: skills and commands to take a video from concept to rendered MP4 (Remotion, AI voiceover, music, images, clips, FFmpeg, Playwright, Blender). Run /video-toolkit:install once to set up the workspace.",
+  "author": { "name": "Digital Samba (toolkit); packaged as a plugin" },
+  "homepage": "https://github.com/digitalsamba/claude-code-video-toolkit",
+  "repository": "https://github.com/digitalsamba/claude-code-video-toolkit",
+  "license": "MIT",
+  "keywords": ["video", "remotion", "voiceover", "ffmpeg", "explainer", "tts", "music", "blender"]
+}

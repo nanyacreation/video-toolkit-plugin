@@ -1,0 +1,14 @@
+{
+  "name": "video-toolkit-marketplace",
+  "owner": { "name": "video-toolkit plugin maintainers" },
+  "metadata": { "description": "claude-code-video-toolkit packaged as a Claude Code plugin" },
+  "plugins": [
+    {
+      "name": "video-toolkit",
+      "source": "./plugins/video-toolkit",
+      "description": "Concept-to-MP4 video production: Remotion, AI voiceover, music, images, clips, FFmpeg, Playwright",
+      "version": "__TOOLKIT_VERSION__",
+      "category": "productivity"
+    }
+  ]
+}
